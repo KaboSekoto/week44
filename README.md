@@ -1,6 +1,18 @@
 # 🏥 MEDIROZA GENERAL HOSPITAL
+<div align="center">
 
-## 🔴 WEB APPLICATION SECURITY ASSESSMENT
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-198754?style=for-the-badge&labelColor=111827&fontSize=22">
+<img src="https://img.shields.io/badge/FOCUS-WEB%20APPLICATION%20SECURITY-2563EB?style=for-the-badge&labelColor=111827&fontSize=22">
+<img src="https://img.shields.io/badge/TOOLS-NETWORKWALKS%20%7C%20BURP%20SUITE%20%7C%20CURL%20%7C%20WGET-D97706?style=for-the-badge&labelColor=111827&fontSize=22">
+
+<br>
+
+<img src="https://img.shields.io/badge/TESTING-AUTHENTICATION%20%7C%20SQL%20INJECTION-DC3545?style=for-the-badge&labelColor=111827&fontSize=22">
+<img src="https://img.shields.io/badge/TARGET-MEDIROZA%20HOSPITAL-7C3AED?style=for-the-badge&labelColor=111827&fontSize=22">
+<img src="https://img.shields.io/badge/EVIDENCE-COLLECTED-0891B2?style=for-the-badge&labelColor=111827&fontSize=22">
+
+</div>
+
 
 **Authorised Penetration Testing | NetworkWalks Cybersecurity Practical**
 
