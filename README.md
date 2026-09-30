@@ -1,14 +1,9 @@
-
-
-
 # 🏥 MEDIROZA GENERAL HOSPITAL
 
+*Authorised Penetration Testing*
 
-
-**Authorised Penetration Testing | NetworkWalks Cybersecurity Practical**
-
+NetworkWalks Cybersecurity Practical**
 ---
-
 ### Assessment Profile
 
 | **Assessment**        | **Details**                                 |
