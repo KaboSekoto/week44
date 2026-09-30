@@ -2,7 +2,7 @@
 
 *Authorised Penetration Testing*
 
-NetworkWalks Cybersecurity Practical**
+NetworkWalks Cybersecurity Practical
 ---
 ### Assessment Profile
 
@@ -41,7 +41,7 @@ The assessment was conducted to identify and validate security weaknesses within
 
 ---
 
-# 🔬 2. Methodology
+# 🔬2. Methodology
 
 **Reconnaissance → Enumeration → Testing → Validation → Impact Analysis → Reporting**
 
